@@ -13,6 +13,7 @@ function App() {
     <Route path='/home' element={<Home/>}/>
     <Route path='/contact' element={<Contact/>}/>
     <Route path='*' element={<h1> Error 69 Not found</h1>}/>
+    <Route path='/f' element={<h1>f</h1>}/>
       
     
 
