@@ -14,6 +14,7 @@ function App() {
     <Route path='/contact' element={<Contact/>}/>
     <Route path='*' element={<h1> Error 69 Not found</h1>}/>
     <Route path='/f' element={<h1>f</h1>}/>
+    <Route path='/fg' element={<h1>fh</h1>}/>
       
     
 
